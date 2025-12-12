@@ -1,2 +1,2 @@
 version=1
-file1=https:https://raw.githubusercontent.com/pblancxv/Compitrueno/main/prueba_archivo
+file1=https://raw.githubusercontent.com/pblancxv/Compitrueno/main/prueba_archivo
