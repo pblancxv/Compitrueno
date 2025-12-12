@@ -1,0 +1,2 @@
+version=1
+file1=https://raw.githubusercontent.com/pblancxv/Compitrueno/refs/heads/main/prueba_archivo|prueba_archivo
