@@ -1,2 +1,2 @@
 version=1
-file1=https://raw.githubusercontent.com/pblancxv/Compitrueno/main/prueba
+file1=https://github.com/pblancxv/Compitrueno/raw/main/prueba.zip|prueba.zip
